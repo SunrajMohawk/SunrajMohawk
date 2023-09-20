@@ -1,4 +1,5 @@
 ### Hi there 👋
+  🌱 I’m currently learning the ins and outs of GitHub!
 
 <!--
 **SunrajMohawk/SunrajMohawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
